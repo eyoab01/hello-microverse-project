@@ -1,0 +1,9 @@
+body {
+  min-height: 100vh;
+  background: #f7f7f9;
+}
+
+h1 {
+  margin-right: 80px;
+  font-weight: 700;
+}
