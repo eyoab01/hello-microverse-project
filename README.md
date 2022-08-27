@@ -1,38 +1,48 @@
-# https://github.com/eyoab01/hello-microverse-project
-#  https://github.com/eyoab01/hello-microverse-project
-This page is about my portfolio as a software developer
 
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
+# Hello Microverse
+
+ This project is written for purpose of learning and setup the first Microverse project.
 ## Built With
-HTML and CSS
+
+- HTML and CSS
+
+## Live Demo (if available)
+
+[Live Demo Link](https://livedemo.com)
 
 
-## Setup
-download linters folder from microverse github and copy it to your project.
+## Getting Started
 
-## Install
-install the linters and the fontawesome library. (Preferred)
-
-To get a local copy up and running follow these simple steps.
-
-## Prerequisites
-Install code editor to be able to run the commands in the terminal. VSCode 
-## Setup
- download the linters folder and copy it to your project You can clone the project through git clone
- https://github.com/eyoab01/hello-microverse-project.git
-
-## Install
-Install the linters folder to your project. Install the fontawesome for icons in the project 
-
-## Deployment link
+**This is hello Microverse project.**
+**Built with simple index.html and style.css file.**
 
 
-### Authors
-👤 Tesfaye Teklu Feyissa
+## Authors
+Tesfaye Teklu
+👤 ****
 
-GitHub: @eyoab01
-Twitter: @tesfayeteklu10
-LinkedIn: www.linkedin.com/in/tesfaye-teklu-352067105
-
-Feel free to check the issues page.
+- GitHub: [@githubhandle](https://github.com/eyoab01)
 
 
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
